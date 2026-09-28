@@ -1,0 +1,2 @@
+E:\LAGG\dist\installer\NetPulse-Setup.pdb
+E:\LAGG\dist\installer\NetPulse-Setup.exe

@@ -1,0 +1,11 @@
+E:\LAGG\src\NetPulse.Core\bin\Debug\net10.0\NetPulse.Core.deps.json
+E:\LAGG\src\NetPulse.Core\bin\Debug\net10.0\NetPulse.Core.dll
+E:\LAGG\src\NetPulse.Core\bin\Debug\net10.0\NetPulse.Core.pdb
+E:\LAGG\src\NetPulse.Core\obj\Debug\net10.0\NetPulse.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\LAGG\src\NetPulse.Core\obj\Debug\net10.0\NetPulse.Core.AssemblyInfoInputs.cache
+E:\LAGG\src\NetPulse.Core\obj\Debug\net10.0\NetPulse.Core.AssemblyInfo.cs
+E:\LAGG\src\NetPulse.Core\obj\Debug\net10.0\NetPulse.Core.csproj.CoreCompileInputs.cache
+E:\LAGG\src\NetPulse.Core\obj\Debug\net10.0\NetPulse.Core.dll
+E:\LAGG\src\NetPulse.Core\obj\Debug\net10.0\refint\NetPulse.Core.dll
+E:\LAGG\src\NetPulse.Core\obj\Debug\net10.0\NetPulse.Core.pdb
+E:\LAGG\src\NetPulse.Core\obj\Debug\net10.0\ref\NetPulse.Core.dll

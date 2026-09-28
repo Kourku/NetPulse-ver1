@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NetPulse.App/NetPulse.App.csproj" />
+    <Project Path="src/NetPulse.Core/NetPulse.Core.csproj" />
+    <Project Path="src/NetPulse.Installer/NetPulse.Installer.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NetPulse.Tests/NetPulse.Tests.csproj" />
+  </Folder>
+</Solution>
